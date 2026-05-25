@@ -286,10 +286,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-## ON:
+## OFF:
 <img width="1200" height="1600" alt="pmc on" src="https://github.com/user-attachments/assets/15c6dc2b-9d28-4b18-af8a-f05bfd84ac5c" />
 
-## OFF:
+## ON:
 <img width="1200" height="1600" alt="pmc off" src="https://github.com/user-attachments/assets/a7785917-712a-4bb6-9eb9-e3c1b3a9d220" />
 
  
